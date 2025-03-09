@@ -660,3 +660,5 @@ This project is licensed under <a href="./LICENSE">GNU_GPL_v3.0</a>. <img width=
 </table>
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
+#   A z u r - A I  
+ 
