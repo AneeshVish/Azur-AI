@@ -612,53 +612,6 @@ for message in response:
     print(message, flush=True, end='')
 ```
 
-## Contributors
-
-A list of the contributors is available [here](https://github.com/xtekky/gpt4free/graphs/contributors)   
-The [`Vercel.py`](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/Vercel.py) file contains code from [vercel-llm-api](https://github.com/ading2210/vercel-llm-api) by [@ading2210](https://github.com/ading2210), which is licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.txt)   
-Top 1 Contributor: [@hlohaus](https://github.com/hlohaus)
-
-## Copyright
-
-This program is licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.txt)
-
-```
-xtekky/gpt4free: Copyright (C) 2023 xtekky
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
-```
-
-## Star History
-
-<a href="https://github.com/xtekky/gpt4free/stargazers">
-        <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=xtekky/gpt4free&type=Date">
-</a>
-
-## License
-
-<table>
-  <tr>
-     <td>
-       <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png" width="80%"></img>
-    </td>
-    <td> 
-      <img src="https://img.shields.io/badge/License-GNU_GPL_v3.0-red.svg"/> <br> 
-This project is licensed under <a href="./LICENSE">GNU_GPL_v3.0</a>. <img width=2300/>
-    </td>
-  </tr>
-</table>
-
-<p align="right">(<a href="#top">🔼 Back to top</a>)</p>
-#   A z u r - A I  
+#   A z u r - A I 
+ 
  
